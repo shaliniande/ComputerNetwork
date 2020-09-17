@@ -40,3 +40,7 @@ int main(){
     return 0;
 
 }
+
+output:
+Enter the string: 10101111
+01111110 10101111 01111110
