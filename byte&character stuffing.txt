@@ -81,3 +81,11 @@ out[k] = '\0';
 printf("\nAfter Stuffing: %s\n", out);
 return 0;
 }
+
+ouput:
+Enter the characters :goodday
+Enter a charcter that represents starting delimiter:g
+Enter a character that represents ending delimiter:d
+Enter a character that is to be stuffed:mo
+
+After Stuffing: gmogoomodmodayd
