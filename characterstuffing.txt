@@ -31,3 +31,12 @@ void main()
         printf("\n After stuffing:%s", fs);
    
     }
+    
+    output:
+    Enter characters:day
+
+    Enter a character that represents starting delimiter:d
+
+    Enter a character that represents ending delimiter:s
+
+    After stuffing: dddays
